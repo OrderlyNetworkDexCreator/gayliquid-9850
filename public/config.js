@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/gayperps",
   "VITE_SEO_SITE_NAME": "Gay Liquid",
   "VITE_SEO_SITE_DESCRIPTION": "Perps for Homies that Sleep Together",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/gayliquid-9850/",
+  "VITE_SEO_SITE_URL": "https://gayliquidperps.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@gayperps",
